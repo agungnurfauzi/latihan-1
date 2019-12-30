@@ -18,3 +18,4 @@ vcs adalah sebuah sistem yang mencatat semua perubahan yang terjadi pada file at
 #latihan 1
 # latihan1
 #latihan 1
+# labpy1
