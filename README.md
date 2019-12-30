@@ -16,3 +16,4 @@ vcs adalah sebuah sistem yang mencatat semua perubahan yang terjadi pada file at
 # LABYSPY1.2
 # LABYSPY1.2
 #latihan 1
+# latihan1
