@@ -9,4 +9,6 @@ vcs adalah sebuah sistem yang mencatat semua perubahan yang terjadi pada file at
 5.jika telah yakin dengan menggunakan perintah 'git commit -m "catatan"
 6.membuat sambungan repository lokal dengan server dengan perintah 'git remote add origin'
 7.mengirim perubahan ke server dengan perintah 'git push -u origin master'
-#latihan 1
+
+
+# Latihan1
